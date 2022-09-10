@@ -1,2 +1,2 @@
 # RP
-Rentetan
+Rentetan proksi
